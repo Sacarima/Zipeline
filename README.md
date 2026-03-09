@@ -382,7 +382,7 @@ src
 │   └── utils.ts
 ├── providers
 └── test
-
+```
 
 Running Locally
 Prerequisites
@@ -398,6 +398,7 @@ These versions are enforced in package.json.
 git clone <ADD_PUBLIC_GITHUB_REPO_URL_HERE>
 cd ai-job-description
 ```
+
 2. Install dependencies
 ```
 npm install
