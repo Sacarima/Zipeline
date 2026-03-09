@@ -662,14 +662,6 @@ This project is provided for assessment/review purposes unless otherwise stated.
 
 ---
 
-This version is much closer to a real submission README.
-
-Two things would make it even stronger:
-- your exact **GitHub repo URL**
-- your exact **deployment URL**
-
-And one thing I still want to confirm before I polish it one last time:
-
 License
 
 This project is provided for assessment/review purposes unless otherwise stated.
