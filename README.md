@@ -1,6 +1,6 @@
 # Zipeline
 
-Zipeline is a work Automation platform, the project is still under development, for this particular assessment there a  AI-powered job description analysis feature built with **Next.js App Router**, **TypeScript**, **Tailwind CSS v4**, **shadcn/ui**, and **Aceternity UI**.
+Zipeline is a work Automation platform. The project is still under development. For this particular assessment, there's an  AI-powered job description analysis feature built with **Next.js App Router**, **TypeScript**, **Tailwind CSS v4**, **shadcn/ui**, and **Aceternity UI**.
 
 It combines a polished marketing-style landing page with a protected application area, passwordless authentication, and an AI workflow for analyzing job descriptions into structured output.
 
