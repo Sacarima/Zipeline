@@ -8,8 +8,8 @@ The project was built as a frontend-focused technical assessment and is intentio
 
 ## Live Demo
 
-- **Production URL:** `<After deployement I need to add the URL here>`
-- **Public GitHub Repository:** `<My github link will be placed here>`
+- **Production URL:** `https://zipeline.vercel.app`
+- **Public GitHub Repository:** `https://github.com/Sacarima/Zipeline/`
 
 ---
 
